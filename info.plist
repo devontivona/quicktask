@@ -17,6 +17,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -25,6 +27,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>1D98D1B3-BB8E-445E-8355-0A59DB9F2FC7</key>
@@ -36,6 +40,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>26298596-06EE-43FA-96A9-06A15968B76E</key>
@@ -47,6 +53,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>43D51E54-0F4C-43A0-B136-8504467D56B7</key>
@@ -58,6 +66,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>4F4FD87E-5896-4C97-9312-2E84C83860EA</key>
@@ -69,6 +79,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>6173A354-52E2-4632-9435-818749A24E1A</key>
@@ -80,6 +92,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>727A0DAB-EAD1-495B-B9B5-AFA1031C03E0</key>
@@ -93,6 +107,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>7FAB03F7-449C-414D-9C7A-9FD73EA9D1CB</key>
@@ -104,6 +120,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>844E2B6C-A6E1-4578-8D25-8687C0393E41</key>
@@ -115,6 +133,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>868412B0-17E6-4559-AD76-7ABE0083C437</key>
@@ -126,6 +146,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>AE44732C-5739-4481-B3E9-861B5A6EDBFB</key>
@@ -137,6 +159,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>B6DDCB29-1E50-44AF-9641-123622ED0907</key>
@@ -148,6 +172,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>BD0392A7-BB54-4251-9F13-D96A43BC8A34</key>
@@ -159,6 +185,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>BF2479E1-2F70-4144-AD0F-70770B67189B</key>
@@ -170,6 +198,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>C16C721F-BDFB-4935-BE96-F4C9AB4623F5</key>
@@ -181,6 +211,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>C3332AFF-F107-4CAE-956B-2DB6499C7854</key>
@@ -192,6 +224,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>E569B0FB-E5C8-42A9-AB66-D2E1DFE352A9</key>
@@ -203,6 +237,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>EF3C558C-8276-4CDB-BF34-A202745C93BE</key>
@@ -214,6 +250,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>F80E296C-CD58-41CA-8C77-C49DE7C61037</key>
@@ -225,6 +263,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -233,6 +273,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 	</dict>
@@ -249,12 +291,18 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>38</integer>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;task('{query}');</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -263,7 +311,7 @@ $a-&gt;task('{query}');</string>
 			<key>uid</key>
 			<string>C3332AFF-F107-4CAE-956B-2DB6499C7854</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -272,6 +320,8 @@ $a-&gt;task('{query}');</string>
 				<integer>0</integer>
 				<key>keyword</key>
 				<string>asana</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Add a task to Asana</string>
 				<key>withspace</key>
@@ -282,7 +332,7 @@ $a-&gt;task('{query}');</string>
 			<key>uid</key>
 			<string>BF2479E1-2F70-4144-AD0F-70770B67189B</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -291,9 +341,21 @@ $a-&gt;task('{query}');</string>
 				<integer>0</integer>
 				<key>argument</key>
 				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>49</integer>
+				<key>hotmod</key>
+				<integer>524288</integer>
+				<key>hotstring</key>
+				<string>Space</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
 				<integer>0</integer>
 			</dict>
 			<key>type</key>
@@ -301,7 +363,7 @@ $a-&gt;task('{query}');</string>
 			<key>uid</key>
 			<string>BD0392A7-BB54-4251-9F13-D96A43BC8A34</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -310,6 +372,8 @@ $a-&gt;task('{query}');</string>
 				<integer>0</integer>
 				<key>keyword</key>
 				<string>akey</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Set Asana API key</string>
 				<key>withspace</key>
@@ -320,11 +384,13 @@ $a-&gt;task('{query}');</string>
 			<key>uid</key>
 			<string>734EE61B-B1B5-4C8A-8F13-ED635126345C</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>62</integer>
 				<key>script</key>
@@ -332,6 +398,10 @@ $a-&gt;task('{query}');</string>
 $a = new Asana();
 $a-&gt;key("{query}");
 </string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -340,7 +410,7 @@ $a-&gt;key("{query}");
 			<key>uid</key>
 			<string>E569B0FB-E5C8-42A9-AB66-D2E1DFE352A9</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -349,11 +419,7 @@ $a-&gt;key("{query}");
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<true/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>{query}</string>
@@ -365,11 +431,13 @@ $a-&gt;key("{query}");
 			<key>uid</key>
 			<string>A15664DF-55E6-4119-A57B-CD95A8420D14</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>4</integer>
 				<key>script</key>
@@ -379,6 +447,10 @@ $a-&gt;save_target("{query}");
 
 
 </string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -387,23 +459,43 @@ $a-&gt;save_target("{query}");
 			<key>uid</key>
 			<string>7FAB03F7-449C-414D-9C7A-9FD73EA9D1CB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>62</integer>
 				<key>keyword</key>
 				<string>aspace</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Retrieving data</string>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;workspace_filter("{query}");</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Retrieving workspace data…</string>
 				<key>type</key>
@@ -416,21 +508,43 @@ $a-&gt;workspace_filter("{query}");</string>
 			<key>uid</key>
 			<string>844E2B6C-A6E1-4578-8D25-8687C0393E41</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>62</integer>
 				<key>keyword</key>
 				<string>aproject</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;project_filter("{query}");</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Retrieving project data…</string>
 				<key>type</key>
@@ -443,17 +557,23 @@ $a-&gt;project_filter("{query}");</string>
 			<key>uid</key>
 			<string>B6DDCB29-1E50-44AF-9641-123622ED0907</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>36</integer>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;save_target("{query}",true);</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -462,11 +582,13 @@ $a-&gt;save_target("{query}",true);</string>
 			<key>uid</key>
 			<string>EF3C558C-8276-4CDB-BF34-A202745C93BE</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>36</integer>
 				<key>script</key>
@@ -474,6 +596,10 @@ $a-&gt;save_target("{query}",true);</string>
 $a = new Asana();
 $a-&gt;person("{query}");
 </string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -482,7 +608,7 @@ $a-&gt;person("{query}");
 			<key>uid</key>
 			<string>43D51E54-0F4C-43A0-B136-8504467D56B7</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -491,6 +617,8 @@ $a-&gt;person("{query}");
 				<integer>0</integer>
 				<key>keyword</key>
 				<string>aperson</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Save an Asana assignee</string>
 				<key>withspace</key>
@@ -501,21 +629,43 @@ $a-&gt;person("{query}");
 			<key>uid</key>
 			<string>26298596-06EE-43FA-96A9-06A15968B76E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>62</integer>
 				<key>keyword</key>
 				<string>azone</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;zone_filter("{query}");</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Choose Timezone</string>
 				<key>type</key>
@@ -528,11 +678,13 @@ $a-&gt;zone_filter("{query}");</string>
 			<key>uid</key>
 			<string>6173A354-52E2-4632-9435-818749A24E1A</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>script</key>
@@ -540,25 +692,35 @@ $a-&gt;zone_filter("{query}");</string>
 if temp is "" then
 	tell application "Alfred 3" to search "azone"
 end if</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>6F01A262-24C9-4AC7-895B-6CB409BF483D</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>62</integer>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;zone_save("{query}");</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -567,17 +729,23 @@ $a-&gt;zone_save("{query}");</string>
 			<key>uid</key>
 			<string>0EAC33E5-4321-4C3A-B1D5-2E5CD576AA67</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>32</integer>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;new_project("{query}");</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -586,21 +754,43 @@ $a-&gt;new_project("{query}");</string>
 			<key>uid</key>
 			<string>F80E296C-CD58-41CA-8C77-C49DE7C61037</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>54</integer>
 				<key>keyword</key>
 				<string>anew</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;workspace_filter("{query}");</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Retrieving workspace data…</string>
 				<key>type</key>
@@ -613,11 +803,13 @@ $a-&gt;workspace_filter("{query}");</string>
 			<key>uid</key>
 			<string>C16C721F-BDFB-4935-BE96-F4C9AB4623F5</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>script</key>
@@ -625,25 +817,35 @@ $a-&gt;workspace_filter("{query}");</string>
 if temp is "" then
 	tell application "Alfred 3" to search "anew"
 end if</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>A4021E07-BE0F-41DB-86E2-25BC8C1B1AE9</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>62</integer>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;get();</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -652,7 +854,7 @@ $a-&gt;get();</string>
 			<key>uid</key>
 			<string>4F4FD87E-5896-4C97-9312-2E84C83860EA</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -661,6 +863,8 @@ $a-&gt;get();</string>
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>aget</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Retrieve Asana workspaces and projects.</string>
 				<key>withspace</key>
@@ -671,7 +875,7 @@ $a-&gt;get();</string>
 			<key>uid</key>
 			<string>868412B0-17E6-4559-AD76-7ABE0083C437</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -680,6 +884,8 @@ $a-&gt;get();</string>
 				<integer>1</integer>
 				<key>keyword</key>
 				<string>adefault</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Set default assignee (enter email optional)</string>
 				<key>withspace</key>
@@ -690,17 +896,23 @@ $a-&gt;get();</string>
 			<key>uid</key>
 			<string>AE44732C-5739-4481-B3E9-861B5A6EDBFB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>62</integer>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;mail("{query}");</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -709,21 +921,43 @@ $a-&gt;mail("{query}");</string>
 			<key>uid</key>
 			<string>1D98D1B3-BB8E-445E-8355-0A59DB9F2FC7</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>escaping</key>
 				<integer>62</integer>
 				<key>keyword</key>
 				<string>atarget</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;target();</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Show current task target</string>
 				<key>type</key>
@@ -736,21 +970,43 @@ $a-&gt;target();</string>
 			<key>uid</key>
 			<string>727A0DAB-EAD1-495B-B9B5-AFA1031C03E0</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>escaping</key>
 				<integer>62</integer>
 				<key>keyword</key>
 				<string>apeople</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
 				<key>script</key>
 				<string>require('asana.php');
 $a = new Asana();
 $a-&gt;people();</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Show assignee nicknames and emails</string>
 				<key>type</key>
@@ -763,7 +1019,7 @@ $a-&gt;people();</string>
 			<key>uid</key>
 			<string>CBFE1068-30FF-4A73-A67E-7C74B9429574</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 	</array>
 	<key>readme</key>
@@ -774,121 +1030,169 @@ Credit to David Ferguson for his vital work and his workflow PHP class.</string>
 	<dict>
 		<key>0EAC33E5-4321-4C3A-B1D5-2E5CD576AA67</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>530</real>
 		</dict>
 		<key>1D98D1B3-BB8E-445E-8355-0A59DB9F2FC7</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>980</real>
 		</dict>
 		<key>26298596-06EE-43FA-96A9-06A15968B76E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
 		<key>43D51E54-0F4C-43A0-B136-8504467D56B7</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
 		<key>4F4FD87E-5896-4C97-9312-2E84C83860EA</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>880</real>
 		</dict>
 		<key>6173A354-52E2-4632-9435-818749A24E1A</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>530</real>
 		</dict>
 		<key>6F01A262-24C9-4AC7-895B-6CB409BF483D</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>530</real>
 		</dict>
 		<key>727A0DAB-EAD1-495B-B9B5-AFA1031C03E0</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1110</real>
 		</dict>
 		<key>734EE61B-B1B5-4C8A-8F13-ED635126345C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>130</real>
 		</dict>
 		<key>7FAB03F7-449C-414D-9C7A-9FD73EA9D1CB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>230</real>
 		</dict>
 		<key>844E2B6C-A6E1-4578-8D25-8687C0393E41</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>230</real>
 		</dict>
 		<key>868412B0-17E6-4559-AD76-7ABE0083C437</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>880</real>
 		</dict>
 		<key>A15664DF-55E6-4119-A57B-CD95A8420D14</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>190</real>
 		</dict>
 		<key>A4021E07-BE0F-41DB-86E2-25BC8C1B1AE9</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>650</real>
 		</dict>
 		<key>AE44732C-5739-4481-B3E9-861B5A6EDBFB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>980</real>
 		</dict>
 		<key>B6DDCB29-1E50-44AF-9641-123622ED0907</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>330</real>
 		</dict>
 		<key>BD0392A7-BB54-4251-9F13-D96A43BC8A34</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>BF2479E1-2F70-4144-AD0F-70770B67189B</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>C16C721F-BDFB-4935-BE96-F4C9AB4623F5</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>650</real>
 		</dict>
 		<key>C3332AFF-F107-4CAE-956B-2DB6499C7854</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>CBFE1068-30FF-4A73-A67E-7C74B9429574</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1210</real>
 		</dict>
 		<key>E569B0FB-E5C8-42A9-AB66-D2E1DFE352A9</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>130</real>
 		</dict>
 		<key>EF3C558C-8276-4CDB-BF34-A202745C93BE</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>330</real>
 		</dict>
 		<key>F80E296C-CD58-41CA-8C77-C49DE7C61037</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>650</real>
 		</dict>
